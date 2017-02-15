@@ -13,8 +13,8 @@ import (
 
 	"google.golang.org/appengine"
 
-	"github.com/golang/gddo/database"
-	"github.com/golang/gddo/gosrc"
+	"github.com/ReturnPath/gddo/database"
+	"github.com/ReturnPath/gddo/gosrc"
 )
 
 var backgroundTasks = []*struct {

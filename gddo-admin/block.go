@@ -7,7 +7,7 @@
 package main
 
 import (
-	"github.com/golang/gddo/database"
+	"github.com/ReturnPath/gddo/database"
 	"log"
 	"os"
 )

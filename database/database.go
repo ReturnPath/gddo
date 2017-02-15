@@ -51,8 +51,8 @@ import (
 	"google.golang.org/appengine"
 	"google.golang.org/appengine/search"
 
-	"github.com/golang/gddo/doc"
-	"github.com/golang/gddo/gosrc"
+	"github.com/ReturnPath/gddo/doc"
+	"github.com/ReturnPath/gddo/gosrc"
 )
 
 type Database struct {

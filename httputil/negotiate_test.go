@@ -7,7 +7,7 @@
 package httputil_test
 
 import (
-	"github.com/golang/gddo/httputil"
+	"github.com/ReturnPath/gddo/httputil"
 	"net/http"
 	"testing"
 )

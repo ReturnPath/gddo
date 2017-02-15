@@ -8,7 +8,7 @@
 package doc
 
 import (
-	"github.com/golang/gddo/gosrc"
+	"github.com/ReturnPath/gddo/gosrc"
 	"go/doc"
 	"net/http"
 	"strings"

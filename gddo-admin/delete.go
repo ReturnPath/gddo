@@ -10,7 +10,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/golang/gddo/database"
+	"github.com/ReturnPath/gddo/database"
 )
 
 var deleteCommand = &command{

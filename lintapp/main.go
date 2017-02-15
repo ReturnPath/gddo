@@ -25,8 +25,8 @@ import (
 	"google.golang.org/appengine/log"
 	"google.golang.org/appengine/urlfetch"
 
-	"github.com/golang/gddo/gosrc"
-	"github.com/golang/gddo/httputil"
+	"github.com/ReturnPath/gddo/gosrc"
+	"github.com/ReturnPath/gddo/httputil"
 
 	"github.com/golang/lint"
 )

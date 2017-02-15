@@ -17,7 +17,7 @@ import (
 	"golang.org/x/net/context"
 	"google.golang.org/appengine/aetest"
 
-	"github.com/golang/gddo/doc"
+	"github.com/ReturnPath/gddo/doc"
 )
 
 func newDB(t *testing.T) *Database {

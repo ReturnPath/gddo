@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"cloud.google.com/go/logging"
-	"github.com/golang/gddo/database"
+	"github.com/ReturnPath/gddo/database"
 )
 
 // newGCELogger returns a handler that wraps h but logs each request

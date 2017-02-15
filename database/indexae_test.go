@@ -14,7 +14,7 @@ import (
 	"google.golang.org/appengine/aetest"
 	"google.golang.org/appengine/search"
 
-	"github.com/golang/gddo/doc"
+	"github.com/ReturnPath/gddo/doc"
 )
 
 var pdoc = &doc.Package{

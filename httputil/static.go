@@ -11,7 +11,7 @@ import (
 	"crypto/sha1"
 	"errors"
 	"fmt"
-	"github.com/golang/gddo/httputil/header"
+	"github.com/ReturnPath/gddo/httputil/header"
 	"io"
 	"io/ioutil"
 	"mime"

@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/golang/gddo/httputil"
+	"github.com/ReturnPath/gddo/httputil"
 )
 
 var (

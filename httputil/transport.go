@@ -34,9 +34,6 @@ type AuthTransport struct {
 // read from GCE metadata when the metadata server is accessible (we're on GCE)
 // or read from environment varialbes otherwise.
 func NewAuthTransport(base http.RoundTripper) *AuthTransport {
-	if metadata.OnGCE() {
-		return NewAuthTransportFromMetadata(base)
-	}
 	return NewAuthTransportFromEnvironment(base)
 }
 

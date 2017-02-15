@@ -20,7 +20,7 @@ import (
 	"github.com/gregjones/httpcache"
 	"github.com/gregjones/httpcache/memcache"
 
-	"github.com/golang/gddo/httputil"
+	"github.com/ReturnPath/gddo/httputil"
 )
 
 var (
